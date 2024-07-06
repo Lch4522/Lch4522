@@ -1,5 +1,5 @@
-oi, tudo bem?, espero que sim
-Estudante de Programação
+oi, tudo bem?, espero que sim.
+sou Estudante de Programação,
 estou em fase de aprendizagem
 
 <!---
